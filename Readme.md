@@ -79,7 +79,11 @@ host can decide the roles of different members involved?
 ```
 #### Site Demo
 
-![Home Page](Music-Collaboratory-Web-Application\Images\home page.png)
+  ![Home Page](https://github.com/eseus-coder/Music-Collaboratory-Web-Application/blob/main/Images/home%20page.png)
+
+  ![Join Room](https://github.com/eseus-coder/Music-Collaboratory-Web-Application/blob/main/Images/join%20a%20room%20page.png)
+
+  
 
 
 

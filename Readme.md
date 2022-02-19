@@ -79,12 +79,7 @@ host can decide the roles of different members involved?
 ```
 #### Site Demo
 
-  ![Home Page](https://github.com/eseus-coder/Music-Collaboratory-Web-Application/blob/main/Images/home%20page.png)
-
-  ![Join Room](https://github.com/eseus-coder/Music-Collaboratory-Web-Application/blob/main/Images/join%20a%20room%20page.png)
-
-  
-
+  <div style="width:100%;height:0;padding-bottom:51%;position:relative;"><iframe src="https://giphy.com/embed/jjOx8gqBV5PzzRWOyl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-jjOx8gqBV5PzzRWOyl">via GIPHY</a></p>
 
 
 [Back To The Top](#music-collaboratory-web-application)
